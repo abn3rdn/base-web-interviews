@@ -1,5 +1,6 @@
 # Web Interview Questions
 This repository has questions, coding challenges and sample answers for the coding challenges for general FE interviewing.
+Please make a PR with comments to explain your thought process, unfinished work and anything else you consider important.
 
 ## Coding Challenges
 1. Convert the given code (class-components) to Functional Components.
