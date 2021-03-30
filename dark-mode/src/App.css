@@ -49,3 +49,25 @@
   background: #d51939;
   border: 1px solid white;
 }
+
+.App--dark-theme {
+  background: #303739;
+  color: #e8edef;
+}
+
+.App--dark-theme .header,
+.App--dark-theme .info {
+  color: #e8edef;
+}
+
+.App--dark-theme .info .first {
+  border: 1px solid white;
+}
+
+.App--dark-theme .info .second {
+  border: 1px solid black;
+}
+
+.App--dark-theme .info .third {
+  border: 1px solid #fefefe;
+}
