@@ -1,0 +1,39 @@
+.notes {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: relative;
+    width: 768px;
+    margin: auto;
+}
+
+.notes-edit {
+  z-index: 1;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  box-shadow: 2px 2px 2px #a9a9a9;
+  background: #f3f3f3;
+}
+
+.notes-item {
+  margin-bottom: 0.2rem;
+  border: 1px solid #000;
+  list-style-type: none;
+  padding: 1rem 2rem;
+}
+
+.notes-item h4{
+  margin: 0.5rem;
+}
+
+.notes-item button {
+  margin-left: 2px;
+  margin-right: 5px;
+}
+
+.notes-add label {
+  display: block;
+}
